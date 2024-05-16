@@ -1,0 +1,34 @@
+{
+    "account_1": [
+        {
+            "accountName": "Test 1 Saving Account 1",
+            "accountNo": "1111",
+            "availableBalance": 1234.23,
+            "accountCurrency": "MYR",
+            "accountType": "SAVING"
+        },
+        {
+            "accountName": "Test 1 Current Account 2",
+            "accountNo": "1111-2222",
+            "availableBalance": 768888.23,
+            "accountCurrency": "MYR",
+            "accountType": "CURRENT"
+        }
+    ],
+    "account_2": [
+        {
+            "accountName": "Test 2 Saving Account",
+            "accountNo": "6666",
+            "availableBalance": 444444.23,
+            "accountCurrency": "MYR",
+            "accountType": "SAVING"
+        },
+        {
+            "accountName": "Test 2 Current Account",
+            "accountNo": "6666-2222",
+            "availableBalance": 22222.23,
+            "accountCurrency": "MYR",
+            "accountType": "CURRENT"
+        }
+    ]
+}

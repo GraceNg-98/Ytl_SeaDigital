@@ -1,0 +1,16 @@
+{
+    "user_1": {
+        "userId": "",
+        "userName": "Test ID_1",
+        "loginid": "Test1",
+        "password": "test1",
+        "isRegisterBiometric": false
+    },
+    "user_2": {
+        "userId": "",
+        "userName": "Test ID_2",
+        "loginid": "Test2",
+        "password": "test2",
+        "isRegisterBiometric": false
+    }
+}
